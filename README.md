@@ -2,7 +2,7 @@
  Molecular Dynamics simulations analysis of  human protein HLA-B27:05 (PDB 5txs) to some peptide sequences associated with host protein Annexine and Gut Microbiota (Klebsiella pneumoniae) to identify microbe derived peptides that mimic host peptides in binding behavior to providing insights into molecular mimicry in autoimmune disease such as Ankylosing spondylitis.
  
 ## Project Overview
-This repository contains the molecular dynamics (MD) simulation data, analysis scripts, and results for the study. The goal of this project is to identify pathogen-derived KLEB peptides that mimic host-derived ANX peptides in their binding to HLA-B27:05, potentially contributing to molecular mimicry-driven immune activation.
+This repository contains the molecular dynamics (MD) simulation data, analysis scripts, and results for the study. The goal of this project is to identify pathogen-derived microbe peptides that mimic host-derived ANX peptides in their binding to HLA-B27:05, potentially contributing to molecular mimicry-driven immune activation.
 
 ## Methods Summary
 
