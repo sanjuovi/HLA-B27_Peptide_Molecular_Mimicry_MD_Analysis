@@ -1,0 +1,17 @@
+List of Strong Peptide that can bind to HLAB 27 05
+(P07355_ANXA2_HUMAN_Annexin_A2 protein to HLAB 27 05)
+
+---------------------------------------------------------------------------------------------------------------------------
+ Pos         MHC        Peptide      Core Of Gp Gl Ip Il        Icore        Identity  Score_EL %Rank_EL BindLevel
+---------------------------------------------------------------------------------------------------------------------------
+
+   1 HLA-B*27:05      TRDKVLIRI TRDKVLIRI  0  0  0  0  0    TRDKVLIRI         PEPLIST 0.5172080    0.439 <= SB
+   1 HLA-B*27:05      QRQDIAFAY QRQDIAFAY  0  0  0  0  0    QRQDIAFAY         PEPLIST 0.9627770    0.021 <= SB
+   1 HLA-B*27:05      KRKGTDVPK KRKGTDVPK  0  0  0  0  0    KRKGTDVPK         PEPLIST 0.5244400    0.428 <= SB
+   1 HLA-B*27:05    RRAEDGSVIDY RRAESVIDY  0  4  2  0  0  RRAEDGSVIDY         PEPLIST 0.6584410    0.273 <= SB
+   1 HLA-B*27:05    ARDLYDAGVKR ARYDAGVKR  0  2  2  0  0  ARDLYDAGVKR         PEPLIST 0.8051120    0.144 <= SB
+   1 HLA-B*27:05      SRSEVDMLK SRSEVDMLK  0  0  0  0  0    SRSEVDMLK         PEPLIST 0.7451100    0.191 <= SB
+   1 HLA-B*27:05      IRSEFKRKY IRSEFKRKY  0  0  0  0  0    IRSEFKRKY         PEPLIST 0.7310620    0.203 <= SB
+   1 HLA-B*27:05     KRKYGKSLYY KRYGKSLYY  0  2  1  0  0   KRKYGKSLYY         PEPLIST 0.8931530    0.077 <= SB
+   1 HLA-B*27:05      RKYGKSLYY RKYGKSLYY  0  0  0  0  0    RKYGKSLYY         PEPLIST 0.5971840    0.339 <= SB
+   1 HLA-B*27:05     AQRQDIAFAY ARQDIAFAY  0  1  1  0  0   AQRQDIAFAY         PEPLIST 0.8582920    0.103 <= SB
