@@ -1,0 +1,19 @@
+source leaprc.protein.ff14SB
+source leaprc.water.tip3p
+
+loadAmberParams frcmod.ionsjc_tip3p
+
+X = loadpdb pepid_amber.pdb
+check X 
+
+solvatebox X TIP3PBOX 10
+
+addions X Na+ 0
+addions X Cl- 0
+
+charge X
+
+saveamberparm X pepid_param.top pepid_param.crd
+savepdb X pepid_param.pdb
+quit
+
