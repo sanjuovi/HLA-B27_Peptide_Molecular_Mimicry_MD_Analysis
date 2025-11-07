@@ -1,0 +1,16 @@
+name: hlab27
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.10
+  - biopython
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - requests
+  - openpyxl
+  - jupyter
