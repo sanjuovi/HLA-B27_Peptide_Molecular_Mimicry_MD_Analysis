@@ -47,5 +47,5 @@ def generate_filtered_peptides(fasta_file, min_peptide_length=9, max_peptide_len
 
 # Example usage
 if __name__ == "__main__":
-    fasta_file = "inputfile.fasta"
+    fasta_file = "filename.fasta"    # type your fasta file name in place of filename.fasta
     generate_filtered_peptides(fasta_file)
