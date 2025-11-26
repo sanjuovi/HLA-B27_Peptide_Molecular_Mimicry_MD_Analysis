@@ -125,6 +125,12 @@ o	**Peptides studied:**
 
 •	Human: ANX
 •	Microbial: KP1, KP2, KP3
+•	amino acids sequences in selected peptides:
+            ANX- IRSEFKRKY
+            Kp1- GRSDFKGDY
+            KP2- GRSDFKGDYF
+            KP3- SRSDRVAKY
+
 
   **### Software / Tools:**
    
