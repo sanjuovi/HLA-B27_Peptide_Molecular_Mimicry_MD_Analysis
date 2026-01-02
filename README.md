@@ -19,7 +19,10 @@ I focused on learning:
 - Peptide docking and molecular dynamics (MD)
 - Trajectory analysis (RMSD, RMSF, SASA, PCA, MMGBSA
   
----
+-----------------
+**📘Note:** A structured Jupyter Book version of this work is available here: **Protein_peptide_mimicry_study** – https://singh-sanju.github.io/Protein_peptide_mimicry_study
+
+---------------------------
 
  **🛠️## Overview of the Pipeline**
    
